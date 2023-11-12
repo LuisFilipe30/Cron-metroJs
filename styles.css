@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+.container{
+    text-align: center;
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.green-btn{
+    background-color: green;
+}
+
+.grey-btn{
+    background-color: grey;
+}
+
+.red-btn{
+    background-color: red;
+}
+
